@@ -1,0 +1,9 @@
+[submodule "hw/02-hw-word-count-steelproxy"]
+	path = hw/02-hw-word-count-steelproxy
+	url = https://github.com/2400-fl-20/02-hw-word-count-steelproxy/
+[submodule "hw/01-hw-invoice-steelproxy"]
+	path = hw/01-hw-invoice-steelproxy
+	url = https://github.com/2400-fl-20/01-hw-invoice-steelproxy
+[submodule "hw/03-hw-zipcode-steelproxy"]
+	path = hw/03-hw-zipcode-steelproxy
+	url = https://github.com/2400-fl-20/03-hw-zipcode-steelproxy
