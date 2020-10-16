@@ -7,3 +7,6 @@
 [submodule "hw/03-hw-zipcode-steelproxy"]
 	path = hw/03-hw-zipcode-steelproxy
 	url = https://github.com/2400-fl-20/03-hw-zipcode-steelproxy
+[submodule "hw/04-hw-tickets-steelproxy"]
+	path = hw/04-hw-tickets-steelproxy
+	url = https://github.com/2400-fl-20/04-hw-tickets-steelproxy
