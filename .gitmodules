@@ -10,3 +10,6 @@
 [submodule "hw/04-hw-tickets-steelproxy"]
 	path = hw/04-hw-tickets-steelproxy
 	url = https://github.com/2400-fl-20/04-hw-tickets-steelproxy
+[submodule "hw/08-hw-book-library-steelproxy"]
+	path = hw/08-hw-book-library-steelproxy
+	url = anon@https://github.com/2400-fl-20/08-hw-book-library-steelproxy
